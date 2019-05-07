@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sosahziex.billimek.com/sitemap.xml
